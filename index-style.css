@@ -1,0 +1,31 @@
+body {background-color: grey;}
+
+.header {
+    text-align: center;
+    font-size: 50px;
+    color: white;
+    background-color: black;
+}
+
+
+body hr {
+    background-color: yellow;
+}
+
+.Image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h2,
+.lst-page {
+    text-align: center;
+    list-style-position: inside;
+}
+
+.lst-page {
+    font-size: 20px;
+    font-weight: 650;
+
+}
