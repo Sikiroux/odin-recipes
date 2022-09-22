@@ -1,0 +1,43 @@
+body {
+    background-color: grey;
+    font-family: Arial, Helvetica, sans-serif;
+}
+head {
+    background-color: grey;
+}
+
+
+h1 {
+    text-align: center;
+    background-color: black;
+    font-size: 40px;
+    color: white;
+
+}
+#image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+.header {
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+}
+
+.header.first {
+    background-color: rgb(34, 33, 33);
+}
+
+.header.second {
+    background-color: rgb(59, 59, 59);
+}
+
+.header.third {
+    background-color: rgb(87, 87, 87);
+}
+
+a {
+    background-color: darkgrey;
+}
